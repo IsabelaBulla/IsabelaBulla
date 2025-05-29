@@ -3,13 +3,6 @@
 My name is Isabela Bulla, I'm 20 years old and I was born in Brazil. I'm currently in my last semester of Computer Programming at Seneca Polytechnic.
 
 <p align="start">
-   <a href="www.linkedin.com/in/isabelabulla">
-        <img 
-        alt="LinkedIn"
-        title="Let's connect"
-        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
     <a href="https://github.com/IsabelaBulla?tab=repositories&sort=stargazers">
         <img 
         alt="total stars"  
@@ -128,11 +121,21 @@ My name is Isabela Bulla, I'm 20 years old and I was born in Brazil. I'm current
 ### 📊 Statistics
 
    
-<img 
+<p>
+  <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="margin-right: 10px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=IsabelaBulla&show_icons=true&theme=tokyonight&include_all_commits=true" 
-/>
+  />
+<br/>
+<br/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaBulla&theme=tokyonight&layout=compact" 
+  />
 
+</p>
