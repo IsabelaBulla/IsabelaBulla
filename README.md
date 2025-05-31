@@ -128,7 +128,7 @@ My name is Isabela Bulla, I'm 20 years old and I was born in Brazil. I'm current
    style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api?username=IsabelaBulla&show_icons=true&theme=tokyonight&include_all_commits=true" 
 />
-    
+ <br/>   
 <img 
       align="left" 
       alt="GitHub Stats" 
