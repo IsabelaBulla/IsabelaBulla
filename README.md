@@ -120,7 +120,7 @@ My name is Isabela Bulla, I'm 20 years old and I was born in Brazil. I'm current
 
 ### 📊 Statistics
 
-<p>
+
 <img 
    align="left" 
    alt="GitHub Stats" 
@@ -128,7 +128,8 @@ My name is Isabela Bulla, I'm 20 years old and I was born in Brazil. I'm current
    style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api?username=IsabelaBulla&show_icons=true&theme=tokyonight&include_all_commits=true" 
 />
- <br/>   
+<br/>
+<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -136,8 +137,6 @@ My name is Isabela Bulla, I'm 20 years old and I was born in Brazil. I'm current
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaBulla&theme=tokyonight&layout=compact&custom_title=Technologies" 
   />
 
-  
-</p>
 
 
 
