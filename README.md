@@ -113,22 +113,6 @@ My name is Isabela Bulla, I'm 20 years old and I was born in Brazil. I'm current
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
 
-<br/>
-<br/>
-
----
-
-### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IsabelaBulla&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-</p>
 
 
 
