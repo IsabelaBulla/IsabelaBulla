@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Isabela Bulla
 
-My name is Isabela Bulla, I'm 20 years old and I was born in Brazil. I'm currently in my last semester of Computer Programming at Seneca Polytechnic.
+My name is Isabela Bulla. I'm 21 years old and I currently live in Toronto, Canada. I rececntly graduated from my Computer Programming Diploma at Seneca Polytechnic.
 
 <p align="start">
     <a href="https://github.com/IsabelaBulla?tab=repositories&sort=stargazers">
